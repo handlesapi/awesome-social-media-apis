@@ -60,6 +60,7 @@ Hosted services that return public social data in a normalised shape, without yo
 - [Bright Data](https://brightdata.com/) - web data platform with social media datasets and scrapers.
 - [Data365](https://data365.co/) - social media data API for several platforms.
 - [EnsembleData](https://ensembledata.com/) - API for TikTok, Instagram, YouTube and other platforms.
+- [Groundsocial](https://groundsocial.dev/) - REST and hosted MCP API for public data from 77 platforms (Reddit, X, TikTok, Instagram, YouTube, LinkedIn, Bluesky, Google and more), returned in each platform's own JSON shape; OpenAPI spec.
 - [Handles API](https://handlesapi.com/) - REST and MCP API for public data from X, Instagram, TikTok, YouTube, Telegram, Bluesky, Twitch, Kick and LinkedIn companies; OpenAPI spec and SDKs on [GitHub](https://github.com/handlesapi).
 - [HikerAPI](https://hikerapi.com/) - Instagram data API.
 - [SocialData.tools](https://socialdata.tools/) - X (Twitter) data API.
