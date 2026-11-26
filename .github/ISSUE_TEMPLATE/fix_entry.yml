@@ -1,0 +1,10 @@
+name: Fix or remove an entry
+description: A link is dead, moved or described wrongly
+labels: [fix]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Which entry and what is wrong
+    validations:
+      required: true

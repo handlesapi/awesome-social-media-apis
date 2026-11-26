@@ -1,0 +1,17 @@
+name: Suggest an entry
+description: Propose a link for the list
+labels: [entry]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name and link
+      placeholder: "Name - https://example.com/"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: One neutral sentence describing it, and which section it belongs in
+    validations:
+      required: true
