@@ -1,3 +1,5 @@
+![Awesome Social Media APIs: a curated list](assets/readme-awesome-social-media-apis.png)
+
 # Awesome Social Media APIs
 
 A curated, neutral list of APIs, SDKs and tools for reading and building on social media data: the official platform APIs, the client libraries that wrap them, third-party data APIs, and the standards around them. Entries are listed alphabetically inside each section. A link is here because it is useful, not because it pays.
